@@ -1,0 +1,58 @@
+#title{
+    background-color: rgb(255, 74, 74);
+    background: linear-gradient(#4018f0,#ab11ed);
+    height: 600px;
+    text-align: center;
+    padding: 3% 10%;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+.sub-head{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+.container-fluid{
+    padding: 2% 8%;
+    text-align: center;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+}
+#navbarSupportedContent{
+    font-size: 1.2rem;
+}
+#skills{
+    padding: 7% 14%;
+}
+#skills-set{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+#Experience{
+    padding: 3% 15%;
+    text-align: center;
+    background-color: rgb(255, 74, 74);
+    background: linear-gradient(#4018f0,#ab11ed);
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    height: 600px;
+}
+#expimage{
+    width: 25%;
+    border-radius:100px;
+    padding: 4%;
+}
+.form{
+    text-align: center;
+    font-size: 1.4rem;
+    padding: 2% 15%;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(231, 231, 231);
+}
+
